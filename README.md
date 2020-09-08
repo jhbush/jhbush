@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![Jason Bush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhbush)](https://github.com/anuraghazra/github-readme-stats&theme=onedark&show_icons=true)
 
 <!--
